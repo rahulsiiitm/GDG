@@ -4,6 +4,7 @@
 *.pyc
 *.swp
 *.env
+*.json
 .DS_Store
 .atom/
 .build/
@@ -33,6 +34,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+/lib/firebase_options.dart
 
 # Symbolication related
 app.*.symbols
